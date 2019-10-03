@@ -1,1 +1,11 @@
-thsi is a demo project to check git.
+this is a demo project to check git.
+
+class MyBlankDemo{
+
+private int a;
+public getA{
+
+}
+
+
+}
