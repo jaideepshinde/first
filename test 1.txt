@@ -22,6 +22,7 @@ public method3ByGitEditor()
 System.out.println("its working");
 }
 public new method
-
+{
+lets see what happens when i try pushing now
 
 }
