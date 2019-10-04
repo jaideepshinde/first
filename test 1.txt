@@ -17,5 +17,10 @@ public method2UsingGit()
 
 }
 
+public method3ByGitEditor()
+{
+System.out.println("its working");
+}
+
 
 }
