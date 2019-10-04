@@ -21,6 +21,6 @@ public method3ByGitEditor()
 {
 System.out.println("its working");
 }
-
+public new method
 
 }
